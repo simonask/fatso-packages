@@ -1,4 +1,3 @@
+project: libyaml
 homepage: http://pyyaml.org/wiki/LibYAML
 tarball: http://pyyaml.org/download/libyaml/yaml-0.1.5.tar.gz
-toolchain: autotools
-dependencies:
